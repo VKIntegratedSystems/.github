@@ -8,9 +8,7 @@
 # Find out more our TAK Services
 
 ## https://www.vkintsys.com
-- https://www.instagram.com/vkintsys/
-- https://www.linkedin.com/company/vk-integrated-systems
-- https://www.youtube.com/channel/UCOyVw8_fb4L0ZSAFv0wf6OA
+[<img src="../icons/icons8-instagram.png">](https://www.instagram.com/vkintsys/) [<img src="../icons/icons8-linkedin.png">](https://www.linkedin.com/company/vk-integrated-systems) [img src="../icons/icons8-youtube.png"](https://www.youtube.com/channel/UCOyVw8_fb4L0ZSAFv0wf6OA)
 
 ### Our Languages
 - React
