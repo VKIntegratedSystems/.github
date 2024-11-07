@@ -5,7 +5,7 @@
 - T.A.K. Stack: The *TAK Plugin Manager  
 - SmarTak Inforce: The Premiere M.A.R.S Ready Plugin for VKIS HW (VK320, VICE, SIOS-C)
 
-# Find out more on how we want to be your one-stop shop for TAK Services (e.g. *TAK plug-ins, TAK Servers, MARS)
+# Find out more our TAK Services
 
 ## https://www.vkintsys.com
 
