@@ -14,4 +14,5 @@
 ![icons8-javascript](https://github.com/user-attachments/assets/0ab177a6-773d-4f4b-ac92-c924a0431725) ![icons8-java](https://github.com/user-attachments/assets/2da6bb9e-407e-4e57-a6b3-9330b66a5354) ![icons8-c](https://github.com/user-attachments/assets/2b2c6e8a-d5b6-4271-9c4c-8c93c4bc5634)
 
 
-
+***NOTE:***
+If you are a member of this team and seeing this page, please switch to member view to see how to contribute
